@@ -2,7 +2,7 @@ Chest pain: risk stratification
 ============================================
 A living systematic review
 
-Short url: https://openMetaAnalysis.github.io/Chest-pain-risk-stratification
+Short url: https://openMetaAnalysis.github.io/Chest-pain-stratification
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
 
