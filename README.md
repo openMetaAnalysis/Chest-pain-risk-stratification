@@ -39,15 +39,24 @@ References:
 V, Kyeremanteng K, Perry JJ. Prognostic Accuracy of the HEART Score for
 Prediction of Major Adverse Cardiac Events in Patients Presenting With Chest
 Pain: A Systematic Review and Meta-analysis. Acad Emerg Med. 2018 Oct 29. doi:
-[10.1111/acem.13649](http://dx.doi.org/10.1111/acem.13649). PMID: [30375097](http://pubmed.gov/30375097).
+[10.1111/acem.13649](http://dx.doi.org/10.1111/acem.13649). PMID: [30375097](http://pubmed.gov/30375097). *Encourages the HEART Score*
 2. Van Den Berg P, Body R. The HEART score for early rule out of acute coronary
 syndromes in the emergency department: a systematic review and meta-analysis. Eur
 Heart J Acute Cardiovasc Care. 2018 Mar;7(2):111-119. doi:
-[10.1177/2048872617710788](http://dx.doi.org/10.1177/2048872617710788). PMID: [28534694](http://pubmed.gov/28534694)
+[10.1177/2048872617710788](http://dx.doi.org/10.1177/2048872617710788). PMID: [28534694](http://pubmed.gov/28534694) *Discourages the Heart score*
 3. Fanaroff AC, Rymer JA, Goldstein SA, Simel DL, Newby LK. Does This Patient
 With Chest Pain Have Acute Coronary Syndrome?: The Rational Clinical Examination 
 Systematic Review. JAMA. 2015 Nov 10;314(18):1955-65. doi:
-[10.1001/jama.2015.12735](http://dx.doi.org/10.1001/jama.2015.12735). PMID: [26547467](http://pubmed.gov/26547467)
+[10.1001/jama.2015.12735](http://dx.doi.org/10.1001/jama.2015.12735). PMID: [26547467](http://pubmed.gov/26547467) *Recommends HEART or TIMI risk scores. *
+
+###Practice guidelines
+Amsterdam EA, Wenger NK, Brindis RG, Casey DE Jr, Ganiats TG, Holmes DR Jr,
+Jaffe AS, Jneid H, Kelly RF, Kontos MC, Levine GN, Liebson PR, Mukherjee D,
+Peterson ED, Sabatine MS, Smalling RW, Zieman SJ; ACC/AHA Task Force Members.
+2014 AHA/ACC guideline for the management of patients with non-ST-elevation acute
+coronary syndromes: a report of the American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines. Circulation. 2014 Dec
+23;130(25):e344-426. doi: [10.1161/CIR.0000000000000134](http://dx.doi.org/10.1161/CIR.0000000000000134). PMID: [25249585](http://pubmed.gov/25249585)
 
 
 ### Diagnostic test assessments
