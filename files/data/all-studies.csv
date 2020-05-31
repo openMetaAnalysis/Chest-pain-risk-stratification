@@ -1,0 +1,3 @@
+Study,Year,PMID,TP,FP,FN,TN, Cofactor,,
+Visser,2915,25217099,70,100,5,80, 'hs-cTn',,
+Santi,2017,27178708,206,660,0,306, 'hs-cTn',,866
